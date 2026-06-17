@@ -1,14 +1,1 @@
-# IntelliJ IDEA / IDE-Dateien
-.idea/
-*.iml
-*.iws
-*.ipr
-*.idea/
-
-# Maven (Build-Dateien)
-target/
 *.log
-
-# System-Dateien
-.DS_Store
-Thumbs.db
