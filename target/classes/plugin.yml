@@ -1,8 +1,0 @@
-name: LyvtNPC
-version: '1.0'
-main: lyvt.dev.LyvtNPC
-api-version: '1.21'
-commands:
-  npc:
-    description: Main command for LyvtNPC (spawn, delete, reload)
-    usage: /npc <spawn|delete|reload>
